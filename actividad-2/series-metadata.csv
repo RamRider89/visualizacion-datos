@@ -1,0 +1,227 @@
+Country Name,Country Code,Series Name,Series Code,2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021],2022 [YR2022],2023 [YR2023]
+France,FRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+France,FRA,Individuals using the Internet (% of population),IT.NET.USER.ZS,81.9198,83.7511,78.006,79.2698,80.5025,82.0432,83.3397,84.7064,86.0955,85.3333,86.8364
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.863715497861805,0.50775882293799,0.0375143805125182,0.18333486112386,1.03228275064662,1.85081508315502,1.10825492288294,0.476498852725066,1.64233141038385,5.22236748369735,4.87835726508441
+France,FRA,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.84711648361859,1.85952906556899,1.86973268204402,1.85171809616119,1.8523088187904,1.84604257144589,1.85288520696513,2.02167455284232,1.98022225807935,1.95772067476703,1.95099683800051
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,42669.1795111893,43148.0459288416,36702.4323733379,37024.2157133669,38687.1626407164,41418.1766484844,40408.2848574751,39169.8606000707,43725.0999521245,40988.6396406579,44700.1384177544
+France,FRA,Net migration,SM.POP.NETM,116297,52342,-345,15548,102984,132925,71972,145593,131465,179377,91862
+France,FRA,Population density (people per sq. km of land area),EN.POP.DNST,122.456502458484,123.039367288246,123.477636144355,123.803885332591,124.163688653864,124.609607570276,125.024698023935,125.431134613601,125.879601076167,126.513511457464,126.862020595603
+United States,USA,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+United States,USA,Individuals using the Internet (% of population),IT.NET.USER.ZS,71.4,73,74.5542,85.5444,87.2749,88.4989,89.4303,90.3447,91.2684,92.2016,93.1444
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.46483265562717,1.62222297740817,0.118627135552451,1.26158320570536,2.13011000365961,2.44258329692817,1.81221007526021,1.23358439630629,4.69785886363742,8.00279982052121,4.11633838374488
+United States,USA,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,4.02370560438155,3.67891817387645,3.46449292564277,3.40260233575118,3.2977234873792,3.3040005391035,3.40921408383721,3.64518757294704,3.40451991574826,3.30947715843109,3.304441637598
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,53179.0127634561,54973.4207515712,56572.9188996063,57638.1018367192,59635.0984397965,62499.8744390068,64746.4506778863,63515.9491807833,70205.050916026,76657.2488844403,81032.262117545
+United States,USA,Net migration,SM.POP.NETM,1663885,1672598,1722127,1889129,1864738,1764961,1774500,329769,674787,1319009,1322668
+United States,USA,Population density (people per sq. km of land area),EN.POP.DNST,34.6246572257533,34.9013776562134,35.1809713558577,35.4584505795077,35.7049975840182,35.9149986553586,36.1004771837305,36.248222996211,36.3052926398919,36.5149212564854,36.8198061311277
+Mexico,MEX,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.1,99.2,99,99.5,100,99.5,99.6,99.4,100,100,99.7
+Mexico,MEX,Individuals using the Internet (% of population),IT.NET.USER.ZS,43.46,44.3857,57.431,59.5404,53.0318,56.6596,69.6321,71.4902,75.6265,78.6322,81.1832
+Mexico,MEX,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.80639069747204,4.01861608078679,2.72064064964023,2.8217078474766,6.04145724018986,4.89935015356551,3.63596142127046,3.39683415570006,5.68920847683753,7.8962761916855,5.52796087314389
+Mexico,MEX,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.48764287589738,0.495321031372806,0.45074282393045,0.480046272445401,0.424849155540147,0.464611544931539,0.509337628297564,0.717690608258695,0.659404192954647,0.685819352028866,0.660371879752505
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,11216.8008505428,11391.3773497683,10021.2386118827,9097.92397674769,9649.27816772402,10084.7937562021,10369.5553585271,8841.27075039868,10314.0506722115,11405.7940473759,13860.9597809326
+Mexico,MEX,Net migration,SM.POP.NETM,-120058,-228816,-291044,-304472,-227499,-175356,-169628,-147456,-122791,-108438,-101044
+Mexico,MEX,Population density (people per sq. km of land area),EN.POP.DNST,60.8778893490059,61.6190030607783,62.2815946912215,62.8881149206513,63.4790282671879,64.0827752771419,64.6945559299365,65.227528485815,65.664316469045,66.1607124668844,66.7402757272564
+Japan,JPN,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,100,100,100,100,100
+Japan,JPN,Individuals using the Internet (% of population),IT.NET.USER.ZS,88.2194,89.1068,91.058,93.1827,91.7265,88.7464,92.7304,90.2195,82.9141,84.9234,86.9815
+Japan,JPN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.335037912184741,2.75922671353253,0.795279630579839,-0.127258844489754,0.484199796126385,0.989094598021848,0.46877615938395,-0.024995834027731,-0.233352779398264,2.49770278172255,3.26813365933163
+Japan,JPN,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.940538501428935,0.957800914762225,0.947283532698529,0.929516775505971,0.913229479099801,0.962497363778907,0.992231472747577,1.01676127140466,1.06384050244526,1.00994395391657,1.13954641785041
+Japan,JPN,GDP per capita (current US$),NY.GDP.PCAP.CD,40898.6478964744,38475.3952461838,34960.6393843385,39375.4731620781,38834.0529341227,39751.1330982711,40415.9567649547,40028.7341726762,40094.5599795288,34065.6438962526,33836.1756271617
+Japan,JPN,Net migration,SM.POP.NETM,66449,58109,168896,314732,322564,320601,318190,42001,-34996,175003,175003
+Japan,JPN,Population density (people per sq. km of land area),EN.POP.DNST,349.643347050754,349.179698216735,348.809327846365,348.631001371742,348.345679012346,347.903978052126,347.415637860082,346.395061728395,344.80546776406,343.278433470508,341.54455749932
+Ecuador,ECU,Access to electricity (% of population),EG.ELC.ACCS.ZS,98,99,98.8,98.7,99.2,98.7,99.1,98.9,100,100,98.7
+Ecuador,ECU,Individuals using the Internet (% of population),IT.NET.USER.ZS,40.2791,45.5904,48.9404,54.0629,55.8,57.5,59.2,70.7,69.1148,69.7181,72.6943
+Ecuador,ECU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.72177577710371,3.58922016616663,3.96664623255358,1.72826463324533,0.417335588666825,-0.224103246005552,0.266012515466155,-0.338872392562139,0.133251386096389,3.46616972213077,2.21568764237058
+Ecuador,ECU,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,2.83298697009902,2.71279094772759,2.6720726618256,2.57311675623471,2.35738419773924,2.37199911152844,2.18038189769994,2.45792351121034,2.24210709535338,2.21851529975547,2.2651385614971
+Ecuador,ECU,GDP per capita (current US$),NY.GDP.PCAP.CD,6109.29031510341,6405.79979300441,5976.1596805651,5917.63771271481,6233.32244797718,6303.91886658338,6205.05765246766,5463.64515348598,6061.32350181711,6515.58528418336,6737.84748379638
+Ecuador,ECU,Net migration,SM.POP.NETM,-6182,2273,14724,35461,53707,95482,54921,-10320,-28503,-23090,-21948
+Ecuador,ECU,Population density (people per sq. km of land area),EN.POP.DNST,63.6460299565147,64.5640360766629,65.4945442100177,66.4565107102593,67.4807497181511,68.6485223063295,69.8180906748269,70.6477089708488,71.1968674504751,71.7663754227734,72.3952448059269
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,,,
+Last Updated: 12/19/2025,,,,,,,,,,,,,,
+Code,License Type,Indicator Name,Short definition,Long definition,Source,Topic,Dataset,Unit of measure,Periodicity,Reference period,Aggregation method,Statistical concept and methodology,Development relevance,Limitations and exceptions,Other notes,License URL
+EG.ELC.ACCS.ZS,CC BY-4.0,Access to electricity (% of population),"Access to electricity is the percentage of population with access to electricity. Electrification data are collected from industry, national surveys and international sources.","Access to electricity is the percentage of population with access to electricity. Electrification data are collected from industry, national surveys and international sources.","SDG 7.1.1 Electrification Dataset, World Bank (WB), uri: https://trackingsdg7.esmap.org/downloads, note: Data is downloaded from ESMAP website. Data is released when a new Tracking SDG7 report is released., publisher: World Bank (WB), date accessed: 2024-05-16, date published: 2023",Environment: Energy production & use,WB_WDI,% (share) of population,Annual,1990-2023,Population-weighted average,"Methodology: The World Bank’s Global Electrification Database (GED) compiles nationally representative household survey data, and occasionally census data, from sources going back as far as 1990. The database also incorporates data from the Socio-Economic Database for Latin America and the Caribbean (SEDLAC), Middle East and North Africa Poverty Database (MNAPOV) and the Europe and Central Asia Poverty Database (ECAPOV), which are based on similar surveys. At the time of this analysis, the GED contained 1,375 surveys for 149 countries in 1990-2021.","Maintaining reliable and secure electricity services while seeking to rapidly decarbonize power systems is a key challenge for countries throughout the world. More and more countries are becoming increasing dependent on reliable and secure electricity supplies to underpin economic growth and community prosperity. This reliance is set to grow as more efficient and less carbon intensive forms of power are developed and deployed to help decarbonize economies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Energy is necessary for creating the conditions for economic growth. It is impossible to operate a factory, run a shop, grow crops or deliver goods to consumers without using some form of energy. Access to electricity is particularly crucial to human development as electricity is, in practice, indispensable for certain basic activities, such as lighting, refrigeration and the running of household appliances, and cannot easily be replaced by other forms of energy. Individuals' access to electricity is one of the most clear and un-distorted indication of a country's energy poverty status.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electricity access is increasingly at the forefront of governments' preoccupations, especially in the developing countries. As a consequence, a lot of rural electrification programs and national electrification agencies have been created in these countries to monitor more accurately the needs and the status of rural development and electrification.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use of energy is important in improving people's standard of living. But electricity generation also can damage the environment. Whether such damage occurs depends largely on how electricity is generated. For example, burning coal releases twice as much carbon dioxide - a major contributor to global warming - as does burning an equivalent amount of natural gas.",,,https://datacatalog.worldbank.org/public-licenses#cc-by
+IT.NET.USER.ZS,CC BY-4.0,Individuals using the Internet (% of population),"Internet users are individuals who have used the Internet (from any location) in the last 3 months. The Internet can be used via a computer, mobile phone, personal digital assistant, games machine, digital TV etc.","Internet users are individuals who have used the Internet (from any location) in the last 3 months. The Internet can be used via a computer, mobile phone, personal digital assistant, games machine, digital TV etc.","World Telecommunication/ICT Indicators Database, International Telecommunication Union (ITU), uri: https://datahub.itu.int/",Infrastructure: Communications,WB_WDI,% of population,Annual,1990-2024,Weighted average,"Methodology: The Internet is a world-wide public computer network. It provides access to a number of communication services including the World Wide Web and carries email, news, entertainment and data files, irrespective of the device used (not assumed to be only via a computer - it may also be by mobile phone, PDA, games machine, digital TV etc.). Access can be via a fixed or mobile network. For additional/latest information on sources and country notes, please also refer to: https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx
+Statistical concept(s): The number of in-scope individuals using the Internet is calculated by aggregating the weighted responses. The proportion of individuals using the Internet is expressed as a percentage and is calculated by dividing the total number of in-scope individuals using the Internet by the total number of in-scope individuals, and then multiplying the result by 100.","The digital and information revolution has changed the way the world learns, communicates, does business, and treats illnesses. New information and communications technologies (ICT) offer vast opportunities for progress in all walks of life in all countries - opportunities for economic growth, improved health, better service delivery, learning through distance education, and social and cultural advances.
+
+Today's smartphones and tablets have computer power equivalent to that of yesterday's computers and provide a similar range of functions. Device convergence is thus rendering the conventional definition obsolete.
+
+Comparable statistics on access, use, quality, and affordability of ICT are needed to formulate growth-enabling policies for the sector and to monitor and evaluate the sector's impact on development. Although basic access data are available for many countries, in most developing countries little is known about who uses ICT; what they are used for (school, work, business, research, government); and how they affect people and businesses. The global Partnership on Measuring ICT for Development is helping to set standards, harmonize information and communications technology statistics, and build statistical capacity in developing countries. However, despite significant improvements in the developing world, the gap between the ICT haves and have-nots remains.","Operators have traditionally been the main source of telecommunications data, so information on subscriptions has been widely available for most countries. This gives a general idea of access, but a more precise measure is the penetration rate - the share of households with access to telecommunications. During the past few years more information on information and communication technology use has become available from household and business surveys. Also important are data on actual use of telecommunications services. Ideally, statistics on telecommunications (and other information and communications technologies) should be compiled for all three measures: subscriptions, access, and use. The quality of data varies among reporting countries as a result of differences in regulations covering data provision and availability.
+
+Discrepancies may also arise in cases where the end of a fiscal year differs from that used by ITU, which is the end of December of every year. A number of countries have fiscal years that end in March or June of every year.",Please cite the International Telecommunication Union for third-party use of these data.,https://datacatalog.worldbank.org/public-licenses#cc-by
+FP.CPI.TOTL.ZG,CC BY-4.0,"Inflation, consumer prices (annual % growth)","Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly. This indicator denotes the percentage change over each previous year of the constant price (base year 2015) series in United States dollars.","Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly. This indicator denotes the percentage change over each previous year of the constant price (base year 2015) series in United States dollars.","International Financial Statistics database, International Monetary Fund (IMF)",Financial Sector: Exchange rates & prices,WB_WDI,%,Annual,1960-2024,Median,"Methodology: Consumer Prices Indices are compiled in accordance with international standards: Consumer Price Index Manual, 2020 or 2004 version. Specific information on how countries compile their CPI statistics can be found on the IMF website: https://dsbb.imf.org/
+Statistical concept(s): The conceptual basis of a consumer price index series is to measure the rate at which prices of consumption goods and services are changing from one period to another.","A general and continuing increase in an economy’s price level is called inflation. The increase in the average prices of goods and services in the economy should be distinguished from a change in the relative prices of individual goods and services. Generally accompanying an overall increase in the price level is a change in the structure of relative prices, but it is only the average increase, not the relative price changes, that constitutes inflation. A commonly used measure of inflation is the consumer price index, which measures the prices of a representative basket of goods and services purchased by a typical household. The consumer price index is usually calculated on the basis of periodic surveys of consumer prices. Other price indices are derived implicitly from indexes of current and constant price series.",,,https://datacatalog.worldbank.org/public-licenses#cc-by
+MS.MIL.XPND.GD.ZS,CC BY-4.0,Military expenditure (% of GDP),Military expenditure by country as percentage of gross domestic product,Military expenditure by country as percentage of gross domestic product,"SIPRI Military Expenditure Database, Stockholm International Peace Research Institute (SIPRI), uri: https://www.sipri.org/databases",Public Sector: Defense & arms trade,WB_WDI,% of GDP,Annual,1960-2024,Weighted average,"Methodology: Military expenditure data is collected from primary and secondary sources. Primary sources include official government publications such as national budgets, defense white papers, financial statistics, and responses to questionnaires from SIPRI, the UN, or the OSCE, as well as expert analyses of government budgets. Secondary sources draw on these primary materials and include international datasets produced by organizations like NATO and the IMF, as well as reference works such as the German Statistisches Jahrbuch, the Europa Yearbook, and Economist Intelligence Unit country reports. Other secondary sources are journals and newspapers. Historically, especially before 1988, secondary sources (notably IMF and UN statistics) were used more heavily due to limited availability of official national data. In recent years, the availability of primary government data has increased significantly.
+
+SIPRI uses government-reported military expenditure data as the baseline and only produces its own estimates when official data are incomplete or inconsistent across years. Estimates are created through detailed budget analysis or by merging overlapping data sources, giving priority to those that best fit SIPRI’s definition, are up-to-date, and provide continuous time series. Older pre-1988 data often required combining secondary sources like IMF GFS and UNSY, which differ in definitions (e.g., excluding military pensions).  SIPRI avoids making assumptions and does not estimate spending for countries lacking any official data. In SIPRI’s database, estimated values appear in blue, while figures considered uncertain, because of weak sources or volatile conditions, appear in red. For recent years, budget projections and deflator-based adjustments are common but flagged only when uncertainty is unusually high.
+
+SIPRI presents military expenditure data on a calendar-year basis (except for the U.S., which uses financial years) and converts figures to constant prices using national consumer price indices to reflect opportunity costs. Local-currency data are converted to US dollars using average market exchange rates. 
+
+Military spending as a share of GDP (“military burden”) is calculated using nominal local-currency values for both military expenditure and GDP. SIPRI also provides military spending as a share of total government expenditure, where IMF data permit. 
+
+For additional information, please refer to the SIPRI website: https://www.sipri.org/databases/milex 
+Refer to Other notes for the Statistical Concept(s).","Although national defense is an important function of government and security from external threats that contributes to economic development, high military expenditures for defense or civil conflicts burden the economy and may impede growth. Data on military expenditures as a share of gross domestic product (GDP) are a rough indicator of the portion of national resources used for military activities and of the burden on the economy.
+
+As an "input" measure military expenditures are not directly related to the "output" of military activities, capabilities, or security. Comparisons of military spending among countries should take into account the many factors that influence perceptions of vulnerability and risk, including historical and cultural traditions, the length of borders that need defending, the quality of relations with neighbors, and the role of the armed forces in the body politic.
+
+Comparisons of military spending among countries should take into account the many factors that influence perceptions of vulnerability and risk, including historical and cultural traditions, the length of borders that need defending, the quality of relations with neighbors, and the role of the armed forces in the body politic.","SIPRI strives to compile reliable, consistent military expenditure data by assessing multiple sources, but accuracy depends on the quality and transparency of those sources. Challenges arise from two key issues: whether reported figures reflect actual spending and how closely they match SIPRI’s definition. While data is generally accurate in developed and many developing countries, weak governance, corruption, and secret transfers in others can lead to major discrepancies. SIPRI sometimes makes estimates, when sources conflict or lack coverage, introducing uncertainty, especially for countries like China or the UAE. Definitions also vary: official defense budgets may omit pensions, paramilitary forces, or extra- and off-budget spending such as resource funds or military commercial activities, which can be substantial but often untraceable, particularly in Africa, the Middle East, and parts of Asia. SIPRI notes these gaps in footnotes, but where figures cannot be obtained, estimates remain incomplete, limiting comparability across countries.","Statistical concept(s): Although the lack of sufficiently detailed data makes it difficult to apply a common definition of military expenditure on a worldwide basis, SIPRI has adopted a definition as a guideline. Where possible, SIPRI military expenditure data include all current and capital expenditure on: (a) the armed forces, including peacekeeping forces; (b) defense ministries and other government agencies engaged in defense projects; (c) paramilitary forces, when judged to be trained and equipped for military operations; and (d) military space activities.
+
+This should include expenditure on: (i) personnel, including: salaries of military and civil personnel; b. retirement pensions of military personnel, and; social services for personnel; (ii) operations and maintenance; (iii) procurement; (iv) military research and development; (v) military infrastructure spending, including military bases; and (vi) military aid (in the military expenditure of the donor country). 
+
+SIPRI’s estimate of military aid includes financial contributions, training and operational costs, replacement costs of the military equipment stocks donated to recipients and payments to procure additional military equipment for the recipient. However, it does not include the estimated value of military equipment stocks donated.
+
+Civil defense and spending related to past military activities—like veterans’ benefits or demobilization—are excluded. Because many countries do not publish data detailed enough to perfectly match SIPRI’s definition, SIPRI often relies on national figures and prioritizes internal consistency over time rather than strict cross-country uniformity. As a result, SIPRI data are most reliable for analyzing trends rather than precise comparisons between countries, and users should consult footnotes for known deviations from the definition.",https://datacatalog.worldbank.org/public-licenses#cc-by
+NY.GDP.PCAP.CD,CC BY-4.0,GDP per capita (current US$),"Gross domestic product is the total income earned through the production of goods and services in an economic territory during an accounting period. It can be measured in three different ways: using either the expenditure approach, the income approach, or the production approach. The core indicator has been divided by the general population to achieve a per capita estimate.This indicator is expressed in current prices, meaning no adjustment has been made to account for price changes over time. This indicator is expressed in United States dollars.","Gross domestic product is the total income earned through the production of goods and services in an economic territory during an accounting period. It can be measured in three different ways: using either the expenditure approach, the income approach, or the production approach. The core indicator has been divided by the general population to achieve a per capita estimate.This indicator is expressed in current prices, meaning no adjustment has been made to account for price changes over time. This indicator is expressed in United States dollars.","Country official statistics, National Statistical Organizations and/or Central Banks;
+National Accounts data files, Organisation for Economic Co-operation and Development (OECD);
+Staff estimates, World Bank (WB)",Economic Policy & Debt: National accounts: US$ at current prices: Aggregate indicators,WB_WDI,current US$,Annual,1960-2024,Weighted average,"Methodology: National accounts are compiled in accordance with international standards: System of National Accounts, 2008 or 1993 versions. Specific information on how countries compile their national accounts can be found on the IMF website: https://dsbb.imf.org/ Per capita estimates are divided by the total population.
+Statistical concept(s): The conceptual elements of the SNA (System of National Accounts) measure what takes place in the economy, between which agents, and for what purpose. At the heart of the SNA is the production of goods and services. These may be used for consumption in the period to which the accounts relate or may be accumulated for use in a later period. In simple terms, the amount of value added generated by production represents GDP. The income corresponding to GDP is distributed to the various agents or groups of agents as income and it is the process of distributing and redistributing income that allows one agent to consume the goods and services produced by another agent or to acquire goods and services for later consumption. The way in which the SNA captures this pattern of economic flows is to identify the activities concerned by recognizing the institutional units in the economy and by specifying the structure of accounts capturing the transactions relevant to one stage or another of the process by which goods and services are produced and ultimately consumed.","This indicator is related to the national accounts, which are critical for understanding and managing a country's economy. They provide a framework for the analysis of economic performance. National accounts are the basis for estimating the Gross Domestic Product (GDP) and Gross National Income (GNI), which are the most widely used indicator of economic performance. They are essential for government policymakers, providing the data needed to design and assess fiscal and monetary policies; and are also used by businesses and investors to assess the economic climate and make investment decisions. NAS enable comparison between economies, which is crucial for international trade, investment decisions, and economic competitiveness. More specifically, this indicator is related to national accounts aggregates. Gross Domestic Product (GDP), Gross National Income (GNI), and other aggregates provide a snapshot of the size and health of an economy by measuring the total economic activity within a country. They can thus be used by policymakers to design and implement economic policies, as they reflect the overall economic performance and can indicate the need for intervention in certain areas. Aggregates also allow for comparisons between different economies, which can be useful for trade negotiations, investment decisions, and economic benchmarking. By examining aggregates over time, economists and analysts can identify trends, cycles, and potential areas of concern within an economy, and investors can use national accounts aggregates to assess the potential risks and returns of investing in a particular country. Overall, national accounts aggregates are fundamental tools for economic analysis, policy formulation, and decision-making at both the national and international levels.",,,https://datacatalog.worldbank.org/public-licenses#cc-by
+SM.POP.NETM,CC BY-4.0,Net migration,"Net migration is the net total of migrants during the period, that is, the number of immigrants minus the number of emigrants, including both citizens and noncitizens.","Net migration is the net total of migrants during the period, that is, the number of immigrants minus the number of emigrants, including both citizens and noncitizens.","World Population Prospects, United Nations (UN), publisher: UN Population Division",Social Protection & Labor: Migration,WB_WDI,Unit,Annual,1960-2024,Sum,"Methodology: When there is insufficient data, net migration is derived through the difference between the overall population growth rate and the rate of natural increase (the difference between the birth rate and the death rate) during the same period. Such calculations are usually made for intercensal periods. The estimates are also derived from the data on foreign-born population - people who have residence in one country but were born in another country. When data on the foreign-born population are not available, data on foreign population - that is, people who are citizens of a country other than the country in which they reside - are used as estimates.
+Statistical concept(s): The United Nations Population Division provides data on net migration and migrant stock. Because data on migrant stock is difficult for countries to collect, the United Nations Population Division takes into account the past migration history of a country or area, the migration policy of a country, and the influx of refugees in recent periods when deriving estimates of net migration. The data to calculate these estimates come from a variety of sources, including border statistics, administrative records, surveys, and censuses.","Movement of people, most often through migration, is a significant part of global integration. Migrants contribute to the economies of both their host country and their country of origin. Yet reliable statistics on migration are difficult to collect and are often incomplete, making international comparisons a challenge.
+
+
+
+Global migration patterns have become increasingly complex in modern times, involving not just refugees, but also millions of economic migrants. In most developed countries, refugees are admitted for resettlement and are routinely included in population counts by censuses or population registers.
+
+
+
+But refugees and migrants, even if they often travel in the same way, are fundamentally different, and for that reason are treated very differently under modern international law. Migrants, especially economic migrants, choose to move in order to improve the future prospects of themselves and their families. Refugees have to move if they are to save their lives or preserve their freedom.","International migration is the component of population change most difficult to measure and estimate reliably. Thus, the quality and quantity of the data used in the estimation and projection of net migration varies considerably by country. Furthermore, the movement of people across international boundaries, which is very often a response to changing socio-economic, political and environmental forces, is subject to a great deal of volatility. Refugee movements, for instance, may involve large numbers of people moving across boundaries in a short time. For these reasons, projections of future international migration levels are the least robust part of current population projections and reflect mainly a continuation of recent levels and trends in net migration.",,https://datacatalog.worldbank.org/public-licenses#cc-by
+EN.POP.DNST,CC BY-4.0,Population density (people per sq. km of land area),"Population density is midyear population divided by land area in square kilometers. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of their country of origin. Land area is a country's total area, excluding area under inland water bodies, national claims to continental shelf, and exclusive economic zones. In most cases the definition of inland water bodies includes major rivers and lakes.","Population density is midyear population divided by land area in square kilometers. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of their country of origin. Land area is a country's total area, excluding area under inland water bodies, national claims to continental shelf, and exclusive economic zones. In most cases the definition of inland water bodies includes major rivers and lakes.","FAO population estimates, Food and Agriculture Organization of the United Nations (FAO), publisher: Food and Agriculture Organization of the United Nations (FAO);
+World Bank population estimates, World Bank (WB), publisher: World Bank (WB)",Environment: Density & urbanization,WB_WDI,people per square kilometer of land area,Annual,1961-2023,Weighted average,"Methodology: Population density is midyear population divided by land area in square kilometers. This ratio can be calculated for any territorial unit for any point in time, depending on the source of the population data. Populationestimates are prepared by World Bank staff from variety of sources. They are based on the de facto definition of population and include all residents regardless of legal status or citizenship, within the physical boundaries of a country and under the jurisdiction of that country's political control. Refugees not permanently settled in the country of asylum are considered part of the population of their country of origin. Population numbers are either current census data or historical census data extrapolated through demographic methods. The count also excludes visitors from overseas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Population density is calculated by dividing midyear population by land area in a country. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship - except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of their country of origin. Land area is a country's total area, excluding area under inland water bodies, national claims to continental shelf, and exclusive economic zones. In most cases the definition of inland water bodies includes major rivers and lakes.","Population estimates are usually based on national population censuses. Estimates for the years before and after the census are interpolations or extrapolations based on demographic models. Errors and undercounting occur even in high-income countries; in developing countries errors may be substantial because of limits in the transport, communications, and other resources required conducting and analyzing a full census.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Population density is a measure of the intensity of land-use, and can be calculated for a block, city, county, state, country, continent or the entire world. Considering that over half of the Earth's land mass consists of areas inhospitable to human inhabitation, such as deserts and high mountains, and that population tends to cluster around seaports and fresh water sources, a simple number of population density by itself does not give any meaningful measurement of human population density.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Several of the most densely populated territories in the world are city-states, microstates, or dependencies.[6][7] These territories share a relatively small area and a high urbanization level, with an economically specialized city population drawing also on rural resources outside the area, illustrating the difference between high population density and overpopulation.","Current population estimates for developing countries that lack recent census data and pre- and post-census estimates for countries with census data are provided by the United Nations Population Division and other agencies. The cohort component method - a standard method for estimating and projecting population - requires fertility, mortality, and net migration data, often collected from sample surveys, which can be small or limited in coverage. Population estimates are from demographic modeling and so are susceptible to biases and errors from shortcomings in the model and in the data. Because the five-year age group is the cohort unit and five-year period data are used, interpolations to obtain annual data or single age structure may not reflect actual events or age composition.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The quality and reliability of official demographic data are also affected by public trust in the government, government commitment to full and accurate enumeration, confidentiality and protection against misuse of census data, and census agencies' independence from political influence. Moreover, comparability of population indicators is limited by differences in the concepts, definitions, collection procedures, and estimation methods used by national statistical agencies and other organizations that collect the data.",,https://datacatalog.worldbank.org/public-licenses#cc-by
